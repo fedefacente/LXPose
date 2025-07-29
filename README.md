@@ -51,5 +51,4 @@ demonstrates the potential of LXPose for real-time clinical deployment.
 
 ## Contact
 
-For questions or issues, contact:
-- federica.facente@inria.fr
+For questions or issues, contact federica.facente@inria.fr
