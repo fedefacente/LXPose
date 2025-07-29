@@ -52,4 +52,4 @@ demonstrates the potential of LXPose for real-time clinical deployment.
 ## Contact
 
 For questions or issues, contact:
-- federica.facente [at] inria.fr
+- federica.facente@inria.fr
