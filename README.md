@@ -2,7 +2,7 @@
 [![INRIA](https://img.shields.io/badge/INRIA-EF3E41?style=flat&logo=inria&logoColor=white)](https://www.inria.fr/en)
 [![MICCAI](https://img.shields.io/badge/MICCAI-2025-E74C3C?style=flat)](https://miccai.org/)
 
-Accepted [paper](https://arxiv.org/abs/xxxx.xxxxx) at **[MICCAI 2025 CoLaS Workshop](https://miccai.org/2025/workshops/colas)**
+Accepted [paper](https://arxiv.org/abs/xxxx.xxxxx) at **[MICCAI 2025 COLAS Workshop](https://sites.google.com/view/miccai-2025-colas/home)**
 
 ---
 
