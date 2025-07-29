@@ -1,6 +1,4 @@
 # LXPose: Multi-stage CNN for fast registration of 3D preoperative CTs to 2D intraoperative X-rays
-[![INRIA](https://img.shields.io/badge/INRIA-EF3E41?style=flat&logo=inria&logoColor=white)](https://www.inria.fr/en)
-[![MICCAI](https://img.shields.io/badge/MICCAI-2025-E74C3C?style=flat)](https://miccai.org/)
 
 Accepted [paper](https://arxiv.org/abs/xxxx.xxxxx) at **[MICCAI 2025 COLAS Workshop](https://sites.google.com/view/miccai-2025-colas/home)**
 
@@ -9,7 +7,6 @@ Accepted [paper](https://arxiv.org/abs/xxxx.xxxxx) at **[MICCAI 2025 COLAS Works
 - [Overview](#overview)
 - [Content](#content)
 - [Usage](#usage)
-- [How to run](#how-to-run)
 - [Cite us](#cite-us)
 - [Contact](#contact)
 ## Overview
