@@ -37,8 +37,8 @@ demonstrates the potential of LXPose for real-time clinical deployment.
 ##  Content
 - `train.py` : train multi-stage CNN for registration of 3D preoperative CTs to 2D intraoperative X-rays
 - `models.py` : regressor and registration models  
-- `test_DRR.py` : test on real test set
-- `test_real.py` : test on DRR test set generated from ground-truth transformations, paired with real X-rays
+- `test_real.py` : test on real test set
+- `test_DRR.py` : test on DRR test set generated from ground-truth transformations, paired with real X-rays
 
 ## Usage 
 
