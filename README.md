@@ -43,9 +43,9 @@ demonstrates the potential of LXPose for real-time clinical deployment.
 ## Usage 
 
 ### Set up the environment
-conda create -n lxpose python=3.12.4
-conda activate lxpose
-pip install -r requirements.txt
+- `conda create -n lxpose python=3.12.4`
+- `conda activate lxpose`
+- `pip install -r requirements.txt`
 
 ##  Citation
 
