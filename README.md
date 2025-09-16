@@ -1,6 +1,6 @@
 # LXPose: Multi-stage CNN for fast registration of 3D preoperative CTs to 2D intraoperative X-rays
 
-Accepted [paper](https://arxiv.org/abs/xxxx.xxxxx) at **[MICCAI 2025 COLAS Workshop](https://sites.google.com/view/miccai-2025-colas/home)**
+Accepted [paper](https://hal.science/hal-05218972v1/document) at **[MICCAI 2025 COLAS Workshop](https://sites.google.com/view/miccai-2025-colas/home)**
 
 ---
 
